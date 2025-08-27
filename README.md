@@ -1,4 +1,4 @@
-"""# Inventory Demand Forecasting
+# Inventory Demand Forecasting
 
 This project predicts item-level daily sales across multiple stores using Machine Learning.  
 We compare **Random Forest, XGBoost, and LightGBM** on a dataset of 900k+ sales records.
